@@ -1,5 +1,2 @@
 Ảnh nhiễu:
 https://commons.wikimedia.org/wiki/Natural_Image_Noise_Dataset (Có license)
-
-Ảnh sạch:
-https://www.kaggle.com/datasets/sherylmehta/kodak-dataset
