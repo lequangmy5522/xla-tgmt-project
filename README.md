@@ -1,4 +1,4 @@
-# N04 – Khử nhiễu ảnh dựa trên ảnh thật (Bilateral filter + Immerkær)
+# N04 – KHỬ NHIỄU ẢNH DỰA TRÊN ẢNH THẬT BILATERAL FILTER THÍCH NGHI KẾT HỢP ƯỚC LƯỢNG NHIỄU IMMERKÆR
 
 Bài tập lớn môn **Xử lý ảnh & Thị giác máy tính (121036)** – Nhóm N04.
 
