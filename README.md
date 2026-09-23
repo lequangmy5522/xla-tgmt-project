@@ -45,17 +45,17 @@ Seed ngẫu nhiên được cố định (`SEED = 42`) nên kết quả lặp l�
 
 ## 4. Các thí nghiệm trong notebook
 
-| Mục    | Nội dung                                                                                                 |
-| ------ | -------------------------------------------------------------------------------------------------------- |
-| 3      | Tải dữ liệu, tính σ_true = std(noisy − clean), phân tầng nhẹ / trung bình / nặng                         |
-| 4      | Cài đặt Gaussian (baseline), Bilateral (P), Immerkær, Bilateral thích nghi (biến thể); kiểm tra Immerkær |
-| 5 (E1) | Baseline Gaussian theo tầng + 3 ảnh thất bại tiêu biểu                                                   |
-| 6 (E2) | Khảo sát ksize, σ (Gaussian); d, σ_s, σ_r (Bilateral); hệ số k (biến thể) – chỉ trên tập dev             |
-| 7      | So sánh 3 phương pháp trên tập eval theo tầng (PSNR, SSIM, thời gian)                                    |
-| 8 (E3) | Ablation: tắt range kernel, tắt Immerkær                                                                 |
-| 9 (E4) | Điểm gãy                                                                                                 |
-| 10     | Thảo luận, đối chiếu dự đoán, kết luận, tài liệu tham khảo                                               |
-| 11     | Tổng hợp lại các bảng và hình quan trọng nhất để tra cứu khi viết báo cáo                                |
+| Mục    | Nội dung                                                                                     |
+| ------ | -------------------------------------------------------------------------------------------- |
+| 3      | Tải dữ liệu, tính σ_true = std(noisy − clean), phân tầng nhẹ / trung bình / nặng             |
+| 4      | Cài đặt Gaussian (baseline), Bilateral (P), Immerkær, Bilateral thích nghi (biến thể)        |
+| 5 (E1) | Baseline Gaussian theo tầng + 3 ảnh thất bại tiêu biểu                                       |
+| 6 (E2) | Khảo sát ksize, σ (Gaussian); d, σ_s, σ_r (Bilateral); hệ số k (biến thể) – chỉ trên tập dev |
+| 7      | So sánh 3 phương pháp trên tập eval theo tầng (PSNR, SSIM, thời gian)                        |
+| 8 (E3) | Ablation: tắt range kernel, tắt Immerkær                                                     |
+| 9 (E4) | Điểm gãy                                                                                     |
+| 10     | Thảo luận, đối chiếu dự đoán, kết luận, tài liệu tham khảo                                   |
+| 11     | Tổng hợp lại các bảng và hình quan trọng nhất để tra cứu khi viết báo cáo                    |
 
 ## 5. Nguồn dữ liệu
 
